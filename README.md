@@ -73,15 +73,15 @@ R² Score = **0.958**
 
 ### Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/model graph.png)
 
 ### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/feature importance.png)
 
 ### Actual vs Predicted
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](images/actual predicted.png)
 
 ---
 
