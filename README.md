@@ -1,4 +1,7 @@
 # Hostel Mess Food Wastage Prediction Using Machine Learning
+<p align="center">
+  <img src=""C:\Users\junej\Downloads\Hostel Mess Food Wastage Prediction.png"" width="100%">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
