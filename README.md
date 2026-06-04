@@ -1,6 +1,7 @@
 # Hostel Mess Food Wastage Prediction Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Enabled-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
