@@ -89,6 +89,22 @@ R² Score = **0.958**
 
 ---
 
+## Results
+
+### Model Comparison
+
+![Model Comparison](images/model%20graph.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature%20importance.png)
+
+### Actual vs Predicted
+
+![Actual vs Predicted](images/actual%20predicted.png)
+
+---
+
 ## Technologies Used
 
 - Python
