@@ -16,6 +16,15 @@ Machine Learning-based hostel mess food wastage prediction system using attendan
 This project predicts hostel mess food wastage using Machine Learning techniques. The system analyzes attendance patterns, menu characteristics, exam periods, and historical food waste data to optimize food preparation and reduce wastage.
 
 ---
+## Key Highlights
+
+- 📊 Analyzed 45,000+ food demand records
+- 🤖 Implemented 5 Machine Learning algorithms
+- 📈 Achieved R² Score of 0.958 using Gradient Boosting
+- 🧠 Applied feature engineering using attendance, weather, and exam schedules
+- ♻️ Designed to reduce hostel food wastage and improve operational efficiency
+
+---
 
 ## Problem Statement
 
