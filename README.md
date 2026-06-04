@@ -1,5 +1,12 @@
 # Hostel Mess Food Wastage Prediction Using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Enabled-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+Machine Learning-based hostel mess food wastage prediction system using attendance, menu patterns, and contextual features to optimize food preparation and reduce waste.
+
 ## Overview
 
 This project predicts hostel mess food wastage using Machine Learning techniques. The system analyzes attendance patterns, menu characteristics, exam periods, and historical food waste data to optimize food preparation and reduce wastage.
